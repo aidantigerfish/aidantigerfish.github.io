@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://www.ecmny.org</loc>
+	<lastmod>2023-02-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/cdc-gsRi9cWCIB0-unsplash.jpg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/unseen-studio-s9CC2SKySJM-unsplash.jpg</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/deleece-cook-zzjLGF_6dx4-unsplash.jpg</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/tim-mossholder-WE_Kv_ZB1l0-unsplash.jpg</image:loc>
+	<image:title>tim mossholder-WE_Kv_ZB1l0-unsplash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/santi-vedri-O5EMzfdxedg-unsplash.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/Screen%20Shot%202023-02-06%20at%207.03.43%20PM.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ecmny.org/payment.html</loc>
+	<lastmod>2023-02-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ecmny.org/calendar.html</loc>
+	<lastmod>2023-02-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ecmny.org/contact-us.html</loc>
+	<lastmod>2023-02-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/recapture-placeholder.png</image:loc>
+	<image:title>recapture placeholder</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ecmny.org/admission.html</loc>
+	<lastmod>2023-02-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/cache_950475182.jpeg</image:loc>
+	<image:title>cache_950475182.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.ecmny.org/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
